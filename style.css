@@ -1,0 +1,23 @@
+body {
+  width: 90%;
+}
+header {
+  background-color: brown;
+  color: aliceblue;
+}
+nav {
+  background-color: black;
+  color: azure;
+  padding: 1%;
+}
+section {
+  background-color: cornflowerblue;
+}
+img {
+  width: 20%;
+  height: 20%;
+}
+aside {
+  background-color: bisque;
+  float: right;
+}
